@@ -1,0 +1,5 @@
+session.*
+resources
+out
+.idea
+Day*.java
