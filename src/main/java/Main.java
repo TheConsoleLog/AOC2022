@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
         Auth authentication = new Auth(new File("src/main/resources/session.ser"));
-        Template assignment = new Day5(getCurrentDay().get(), authentication.getCookie());
+        Template assignment = new Day7(getCurrentDay().get(), authentication.getCookie());
         System.out.println("RESULT 1: " + assignment.<Integer>solveFirst());
         System.out.println("RESULT 2: " + assignment.<Integer>solveSecond());
     }
