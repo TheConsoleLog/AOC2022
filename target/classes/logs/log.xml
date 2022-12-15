@@ -11493,3 +11493,4481 @@ Last request was null</message>
   <message>Trying to read from file</message>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T19:52:22.418461300Z</date>
+  <millis>1670442742418</millis>
+  <nanos>461300</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T19:52:22.469462900Z</date>
+  <millis>1670442742469</millis>
+  <nanos>462900</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T19:52:22.470461300Z</date>
+  <millis>1670442742470</millis>
+  <nanos>461300</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T19:52:22.473461Z</date>
+  <millis>1670442742473</millis>
+  <nanos>461000</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T19:52:22.474461500Z</date>
+  <millis>1670442742474</millis>
+  <nanos>461500</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:12:03.111010600Z</date>
+  <millis>1670447523111</millis>
+  <nanos>10600</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:12:31.070972800Z</date>
+  <millis>1670447551070</millis>
+  <nanos>972800</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:19:01.846047100Z</date>
+  <millis>1670447941846</millis>
+  <nanos>47100</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:19:54.524311500Z</date>
+  <millis>1670447994524</millis>
+  <nanos>311500</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:23:01.659832400Z</date>
+  <millis>1670448181659</millis>
+  <nanos>832400</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:23:01.709829900Z</date>
+  <millis>1670448181709</millis>
+  <nanos>829900</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:24:35.855738500Z</date>
+  <millis>1670448275855</millis>
+  <nanos>738500</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:24:35.908738700Z</date>
+  <millis>1670448275908</millis>
+  <nanos>738700</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:26:45.601166600Z</date>
+  <millis>1670448405601</millis>
+  <nanos>166600</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:26:45.653167400Z</date>
+  <millis>1670448405653</millis>
+  <nanos>167400</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:27:07.636335500Z</date>
+  <millis>1670448427636</millis>
+  <nanos>335500</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:27:07.688335700Z</date>
+  <millis>1670448427688</millis>
+  <nanos>335700</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:28:52.274413200Z</date>
+  <millis>1670448532274</millis>
+  <nanos>413200</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:28:52.325412700Z</date>
+  <millis>1670448532325</millis>
+  <nanos>412700</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:29:23.218714400Z</date>
+  <millis>1670448563218</millis>
+  <nanos>714400</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:29:23.271711800Z</date>
+  <millis>1670448563271</millis>
+  <nanos>711800</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:29:43.653229900Z</date>
+  <millis>1670448583653</millis>
+  <nanos>229900</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:29:43.711229800Z</date>
+  <millis>1670448583711</millis>
+  <nanos>229800</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:34:19.241173400Z</date>
+  <millis>1670448859241</millis>
+  <nanos>173400</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:34:19.294174300Z</date>
+  <millis>1670448859294</millis>
+  <nanos>174300</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:34:55.669209700Z</date>
+  <millis>1670448895669</millis>
+  <nanos>209700</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:34:55.719210600Z</date>
+  <millis>1670448895719</millis>
+  <nanos>210600</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:35:48.880171500Z</date>
+  <millis>1670448948880</millis>
+  <nanos>171500</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:35:48.936171300Z</date>
+  <millis>1670448948936</millis>
+  <nanos>171300</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:36:46.034252600Z</date>
+  <millis>1670449006034</millis>
+  <nanos>252600</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:36:46.086253200Z</date>
+  <millis>1670449006086</millis>
+  <nanos>253200</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:37:04.270596800Z</date>
+  <millis>1670449024270</millis>
+  <nanos>596800</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:37:04.320597Z</date>
+  <millis>1670449024320</millis>
+  <nanos>597000</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:37:33.479974Z</date>
+  <millis>1670449053479</millis>
+  <nanos>974000</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:37:33.529974400Z</date>
+  <millis>1670449053529</millis>
+  <nanos>974400</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:37:42.494359600Z</date>
+  <millis>1670449062494</millis>
+  <nanos>359600</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:37:42.547359200Z</date>
+  <millis>1670449062547</millis>
+  <nanos>359200</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:40:01.029245100Z</date>
+  <millis>1670449201029</millis>
+  <nanos>245100</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:40:01.082244800Z</date>
+  <millis>1670449201082</millis>
+  <nanos>244800</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+<record>
+  <date>2022-12-07T21:40:01.349246700Z</date>
+  <millis>1670449201349</millis>
+  <nanos>246700</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class Day8 successfully created and saved!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:41:33.682075600Z</date>
+  <millis>1670449293682</millis>
+  <nanos>75600</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:41:33.732073800Z</date>
+  <millis>1670449293732</millis>
+  <nanos>73800</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+<record>
+  <date>2022-12-07T21:41:34.002075900Z</date>
+  <millis>1670449294002</millis>
+  <nanos>75900</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class Day8 successfully created and saved!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:44:02.986870200Z</date>
+  <millis>1670449442986</millis>
+  <nanos>870200</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:44:03.038870700Z</date>
+  <millis>1670449443038</millis>
+  <nanos>870700</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+<record>
+  <date>2022-12-07T21:44:03.320872100Z</date>
+  <millis>1670449443320</millis>
+  <nanos>872100</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class Day8 successfully created and saved!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:44:37.651433400Z</date>
+  <millis>1670449477651</millis>
+  <nanos>433400</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:44:37.703432800Z</date>
+  <millis>1670449477703</millis>
+  <nanos>432800</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+<record>
+  <date>2022-12-07T21:44:37.985433900Z</date>
+  <millis>1670449477985</millis>
+  <nanos>433900</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class Day8 successfully created and saved!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:44:52.640183300Z</date>
+  <millis>1670449492640</millis>
+  <nanos>183300</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T21:44:52.689182600Z</date>
+  <millis>1670449492689</millis>
+  <nanos>182600</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class isn't created yet! Trying to create!</message>
+</record>
+<record>
+  <date>2022-12-07T21:44:52.973181400Z</date>
+  <millis>1670449492973</millis>
+  <nanos>181400</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class Day8 successfully created and saved!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:56:13.527055100Z</date>
+  <millis>1670450173527</millis>
+  <nanos>55100</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:57:09.748377500Z</date>
+  <millis>1670450229748</millis>
+  <nanos>377500</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:57:48.524719700Z</date>
+  <millis>1670450268524</millis>
+  <nanos>719700</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T21:58:16.516162900Z</date>
+  <millis>1670450296516</millis>
+  <nanos>162900</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:03:16.205876400Z</date>
+  <millis>1670450596205</millis>
+  <nanos>876400</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:16.260877500Z</date>
+  <millis>1670450596260</millis>
+  <nanos>877500</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:16.261878200Z</date>
+  <millis>1670450596261</millis>
+  <nanos>878200</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:16.263876800Z</date>
+  <millis>1670450596263</millis>
+  <nanos>876800</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:16.264876800Z</date>
+  <millis>1670450596264</millis>
+  <nanos>876800</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:16.287876100Z</date>
+  <millis>1670450596287</millis>
+  <nanos>876100</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:16.288877300Z</date>
+  <millis>1670450596288</millis>
+  <nanos>877300</nanos>
+  <sequence>6</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:16.288877300Z</date>
+  <millis>1670450596288</millis>
+  <nanos>877300</nanos>
+  <sequence>7</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:16.288877300Z</date>
+  <millis>1670450596288</millis>
+  <nanos>877300</nanos>
+  <sequence>8</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:03:38.781054500Z</date>
+  <millis>1670450618781</millis>
+  <nanos>54500</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:38.838055100Z</date>
+  <millis>1670450618838</millis>
+  <nanos>55100</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:38.839055600Z</date>
+  <millis>1670450618839</millis>
+  <nanos>55600</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:38.841055200Z</date>
+  <millis>1670450618841</millis>
+  <nanos>55200</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:38.842055200Z</date>
+  <millis>1670450618842</millis>
+  <nanos>55200</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:38.865055Z</date>
+  <millis>1670450618865</millis>
+  <nanos>55000</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:38.865055Z</date>
+  <millis>1670450618865</millis>
+  <nanos>55000</nanos>
+  <sequence>6</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:38.865055Z</date>
+  <millis>1670450618865</millis>
+  <nanos>55000</nanos>
+  <sequence>7</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:38.866055300Z</date>
+  <millis>1670450618866</millis>
+  <nanos>55300</nanos>
+  <sequence>8</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:03:47.847048Z</date>
+  <millis>1670450627847</millis>
+  <nanos>48000</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:47.902048800Z</date>
+  <millis>1670450627902</millis>
+  <nanos>48800</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:47.903049500Z</date>
+  <millis>1670450627903</millis>
+  <nanos>49500</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:47.906049800Z</date>
+  <millis>1670450627906</millis>
+  <nanos>49800</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:47.907048200Z</date>
+  <millis>1670450627907</millis>
+  <nanos>48200</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:47.929049300Z</date>
+  <millis>1670450627929</millis>
+  <nanos>49300</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:47.929049300Z</date>
+  <millis>1670450627929</millis>
+  <nanos>49300</nanos>
+  <sequence>6</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:47.930048400Z</date>
+  <millis>1670450627930</millis>
+  <nanos>48400</nanos>
+  <sequence>7</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:03:47.930048400Z</date>
+  <millis>1670450627930</millis>
+  <nanos>48400</nanos>
+  <sequence>8</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:04:18.391212600Z</date>
+  <millis>1670450658391</millis>
+  <nanos>212600</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:04:18.443215200Z</date>
+  <millis>1670450658443</millis>
+  <nanos>215200</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:04:18.444213Z</date>
+  <millis>1670450658444</millis>
+  <nanos>213000</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:04:18.446213600Z</date>
+  <millis>1670450658446</millis>
+  <nanos>213600</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:04:18.447212700Z</date>
+  <millis>1670450658447</millis>
+  <nanos>212700</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+<record>
+  <date>2022-12-07T22:04:19.472970900Z</date>
+  <millis>1670450659472</millis>
+  <nanos>970900</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:04:19.472970900Z</date>
+  <millis>1670450659472</millis>
+  <nanos>970900</nanos>
+  <sequence>6</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:04:19.472970900Z</date>
+  <millis>1670450659472</millis>
+  <nanos>970900</nanos>
+  <sequence>7</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:04:19.473970900Z</date>
+  <millis>1670450659473</millis>
+  <nanos>970900</nanos>
+  <sequence>8</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:07:00.416031800Z</date>
+  <millis>1670450820416</millis>
+  <nanos>31800</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:07:00.467029600Z</date>
+  <millis>1670450820467</millis>
+  <nanos>29600</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:07:00.467029600Z</date>
+  <millis>1670450820467</millis>
+  <nanos>29600</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:07:00.470028800Z</date>
+  <millis>1670450820470</millis>
+  <nanos>28800</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:07:00.471028800Z</date>
+  <millis>1670450820471</millis>
+  <nanos>28800</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:13:55.880421400Z</date>
+  <millis>1670451235880</millis>
+  <nanos>421400</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:13:55.933421900Z</date>
+  <millis>1670451235933</millis>
+  <nanos>421900</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:13:55.934422700Z</date>
+  <millis>1670451235934</millis>
+  <nanos>422700</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:13:55.936424600Z</date>
+  <millis>1670451235936</millis>
+  <nanos>424600</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:13:55.937424800Z</date>
+  <millis>1670451235937</millis>
+  <nanos>424800</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:14:23.436857Z</date>
+  <millis>1670451263436</millis>
+  <nanos>857000</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:23.494857Z</date>
+  <millis>1670451263494</millis>
+  <nanos>857000</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:23.495857600Z</date>
+  <millis>1670451263495</millis>
+  <nanos>857600</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:23.498856100Z</date>
+  <millis>1670451263498</millis>
+  <nanos>856100</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:23.499856900Z</date>
+  <millis>1670451263499</millis>
+  <nanos>856900</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:23.521858200Z</date>
+  <millis>1670451263521</millis>
+  <nanos>858200</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:23.521858200Z</date>
+  <millis>1670451263521</millis>
+  <nanos>858200</nanos>
+  <sequence>6</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:23.522858600Z</date>
+  <millis>1670451263522</millis>
+  <nanos>858600</nanos>
+  <sequence>7</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:23.522858600Z</date>
+  <millis>1670451263522</millis>
+  <nanos>858600</nanos>
+  <sequence>8</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:14:58.000513100Z</date>
+  <millis>1670451298000</millis>
+  <nanos>513100</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:58.057512500Z</date>
+  <millis>1670451298057</millis>
+  <nanos>512500</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:58.058511900Z</date>
+  <millis>1670451298058</millis>
+  <nanos>511900</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:58.062512200Z</date>
+  <millis>1670451298062</millis>
+  <nanos>512200</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:58.063511900Z</date>
+  <millis>1670451298063</millis>
+  <nanos>511900</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:58.084512500Z</date>
+  <millis>1670451298084</millis>
+  <nanos>512500</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:58.085512Z</date>
+  <millis>1670451298085</millis>
+  <nanos>512000</nanos>
+  <sequence>6</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:58.085512Z</date>
+  <millis>1670451298085</millis>
+  <nanos>512000</nanos>
+  <sequence>7</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:14:58.086512300Z</date>
+  <millis>1670451298086</millis>
+  <nanos>512300</nanos>
+  <sequence>8</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:15:37.421761200Z</date>
+  <millis>1670451337421</millis>
+  <nanos>761200</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:15:37.473761500Z</date>
+  <millis>1670451337473</millis>
+  <nanos>761500</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:15:37.474761700Z</date>
+  <millis>1670451337474</millis>
+  <nanos>761700</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:15:37.477760200Z</date>
+  <millis>1670451337477</millis>
+  <nanos>760200</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:15:37.478761400Z</date>
+  <millis>1670451337478</millis>
+  <nanos>761400</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+<record>
+  <date>2022-12-07T22:15:37.498761300Z</date>
+  <millis>1670451337498</millis>
+  <nanos>761300</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:15:37.498761300Z</date>
+  <millis>1670451337498</millis>
+  <nanos>761300</nanos>
+  <sequence>6</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:15:37.499760900Z</date>
+  <millis>1670451337499</millis>
+  <nanos>760900</nanos>
+  <sequence>7</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:15:37.499760900Z</date>
+  <millis>1670451337499</millis>
+  <nanos>760900</nanos>
+  <sequence>8</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:16:44.939617700Z</date>
+  <millis>1670451404939</millis>
+  <nanos>617700</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:16:44.994617200Z</date>
+  <millis>1670451404994</millis>
+  <nanos>617200</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:16:44.994617200Z</date>
+  <millis>1670451404994</millis>
+  <nanos>617200</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:16:44.997616700Z</date>
+  <millis>1670451404997</millis>
+  <nanos>616700</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:16:44.998616600Z</date>
+  <millis>1670451404998</millis>
+  <nanos>616600</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+<record>
+  <date>2022-12-07T22:16:45.019617200Z</date>
+  <millis>1670451405019</millis>
+  <nanos>617200</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:16:45.019617200Z</date>
+  <millis>1670451405019</millis>
+  <nanos>617200</nanos>
+  <sequence>6</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:16:45.020617800Z</date>
+  <millis>1670451405020</millis>
+  <nanos>617800</nanos>
+  <sequence>7</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:16:45.020617800Z</date>
+  <millis>1670451405020</millis>
+  <nanos>617800</nanos>
+  <sequence>8</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:17:20.654259700Z</date>
+  <millis>1670451440654</millis>
+  <nanos>259700</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:20.708257500Z</date>
+  <millis>1670451440708</millis>
+  <nanos>257500</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:20.708257500Z</date>
+  <millis>1670451440708</millis>
+  <nanos>257500</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:20.711257800Z</date>
+  <millis>1670451440711</millis>
+  <nanos>257800</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:20.712256700Z</date>
+  <millis>1670451440712</millis>
+  <nanos>256700</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:20.732257600Z</date>
+  <millis>1670451440732</millis>
+  <nanos>257600</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:20.732257600Z</date>
+  <millis>1670451440732</millis>
+  <nanos>257600</nanos>
+  <sequence>6</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:20.732257600Z</date>
+  <millis>1670451440732</millis>
+  <nanos>257600</nanos>
+  <sequence>7</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:20.733257Z</date>
+  <millis>1670451440733</millis>
+  <nanos>257000</nanos>
+  <sequence>8</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:17:41.602037Z</date>
+  <millis>1670451461602</millis>
+  <nanos>37000</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:41.662038800Z</date>
+  <millis>1670451461662</millis>
+  <nanos>38800</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:41.663039Z</date>
+  <millis>1670451461663</millis>
+  <nanos>39000</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:41.666037600Z</date>
+  <millis>1670451461666</millis>
+  <nanos>37600</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:41.667037200Z</date>
+  <millis>1670451461667</millis>
+  <nanos>37200</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:41.671037Z</date>
+  <millis>1670451461671</millis>
+  <nanos>37000</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:41.671037Z</date>
+  <millis>1670451461671</millis>
+  <nanos>37000</nanos>
+  <sequence>6</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:41.672037100Z</date>
+  <millis>1670451461672</millis>
+  <nanos>37100</nanos>
+  <sequence>7</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:17:41.672037100Z</date>
+  <millis>1670451461672</millis>
+  <nanos>37100</nanos>
+  <sequence>8</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:18:34.880830800Z</date>
+  <millis>1670451514880</millis>
+  <nanos>830800</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:18:34.935830300Z</date>
+  <millis>1670451514935</millis>
+  <nanos>830300</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:18:34.936830700Z</date>
+  <millis>1670451514936</millis>
+  <nanos>830700</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:18:34.939830400Z</date>
+  <millis>1670451514939</millis>
+  <nanos>830400</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:18:34.939830400Z</date>
+  <millis>1670451514939</millis>
+  <nanos>830400</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:21:54.304726700Z</date>
+  <millis>1670451714304</millis>
+  <nanos>726700</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:21:54.366725600Z</date>
+  <millis>1670451714366</millis>
+  <nanos>725600</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:21:54.367726600Z</date>
+  <millis>1670451714367</millis>
+  <nanos>726600</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:21:54.370726500Z</date>
+  <millis>1670451714370</millis>
+  <nanos>726500</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:21:54.371726900Z</date>
+  <millis>1670451714371</millis>
+  <nanos>726900</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:23:47.736436800Z</date>
+  <millis>1670451827736</millis>
+  <nanos>436800</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:23:47.792435100Z</date>
+  <millis>1670451827792</millis>
+  <nanos>435100</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:23:47.793434100Z</date>
+  <millis>1670451827793</millis>
+  <nanos>434100</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:23:47.797434700Z</date>
+  <millis>1670451827797</millis>
+  <nanos>434700</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:23:47.798435100Z</date>
+  <millis>1670451827798</millis>
+  <nanos>435100</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:25:22.808395500Z</date>
+  <millis>1670451922808</millis>
+  <nanos>395500</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:25:22.866397500Z</date>
+  <millis>1670451922866</millis>
+  <nanos>397500</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:25:22.866397500Z</date>
+  <millis>1670451922866</millis>
+  <nanos>397500</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:25:22.869398800Z</date>
+  <millis>1670451922869</millis>
+  <nanos>398800</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:25:22.870397500Z</date>
+  <millis>1670451922870</millis>
+  <nanos>397500</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:25:50.653839800Z</date>
+  <millis>1670451950653</millis>
+  <nanos>839800</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:25:50.704841Z</date>
+  <millis>1670451950704</millis>
+  <nanos>841000</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:25:50.705841Z</date>
+  <millis>1670451950705</millis>
+  <nanos>841000</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:25:50.707840700Z</date>
+  <millis>1670451950707</millis>
+  <nanos>840700</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:25:50.708839500Z</date>
+  <millis>1670451950708</millis>
+  <nanos>839500</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:26:01.741745Z</date>
+  <millis>1670451961741</millis>
+  <nanos>745000</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:26:01.801745600Z</date>
+  <millis>1670451961801</millis>
+  <nanos>745600</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:26:01.802745600Z</date>
+  <millis>1670451961802</millis>
+  <nanos>745600</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:26:01.805744800Z</date>
+  <millis>1670451961805</millis>
+  <nanos>744800</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:26:01.806744800Z</date>
+  <millis>1670451961806</millis>
+  <nanos>744800</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:26:43.249882100Z</date>
+  <millis>1670452003249</millis>
+  <nanos>882100</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:26:43.582884600Z</date>
+  <millis>1670452003582</millis>
+  <nanos>884600</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>SEVERE</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Error while loading class</message>
+</record>
+<record>
+  <date>2022-12-07T22:26:43.584883700Z</date>
+  <millis>1670452003584</millis>
+  <nanos>883700</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Class Day8 successfully created and saved!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:26:51.841203Z</date>
+  <millis>1670452011841</millis>
+  <nanos>203000</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:26:51.894202Z</date>
+  <millis>1670452011894</millis>
+  <nanos>202000</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:26:51.894202Z</date>
+  <millis>1670452011894</millis>
+  <nanos>202000</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:26:51.897203100Z</date>
+  <millis>1670452011897</millis>
+  <nanos>203100</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>File is empty, request will be sent</message>
+</record>
+<record>
+  <date>2022-12-07T22:26:51.898201600Z</date>
+  <millis>1670452011898</millis>
+  <nanos>201600</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>You are sending a request to AdventOfCode
+Last request was null</message>
+</record>
+<record>
+  <date>2022-12-07T22:26:51.898201600Z</date>
+  <millis>1670452011898</millis>
+  <nanos>201600</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Request is being sent now!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:27:26.803947100Z</date>
+  <millis>1670452046803</millis>
+  <nanos>947100</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:27:26.857947900Z</date>
+  <millis>1670452046857</millis>
+  <nanos>947900</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:27:26.857947900Z</date>
+  <millis>1670452046857</millis>
+  <nanos>947900</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:27:26.860947600Z</date>
+  <millis>1670452046860</millis>
+  <nanos>947600</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>File is empty, request will be sent</message>
+</record>
+<record>
+  <date>2022-12-07T22:27:26.861948800Z</date>
+  <millis>1670452046861</millis>
+  <nanos>948800</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>You are sending a request to AdventOfCode
+Last request was null</message>
+</record>
+<record>
+  <date>2022-12-07T22:27:26.861948800Z</date>
+  <millis>1670452046861</millis>
+  <nanos>948800</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Request is being sent now!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:28:05.277032400Z</date>
+  <millis>1670452085277</millis>
+  <nanos>32400</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:05.335033700Z</date>
+  <millis>1670452085335</millis>
+  <nanos>33700</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:05.336032800Z</date>
+  <millis>1670452085336</millis>
+  <nanos>32800</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:05.339032500Z</date>
+  <millis>1670452085339</millis>
+  <nanos>32500</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>File is empty, request will be sent</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:05.339032500Z</date>
+  <millis>1670452085339</millis>
+  <nanos>32500</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>You are sending a request to AdventOfCode
+Last request was null</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:05.340033Z</date>
+  <millis>1670452085340</millis>
+  <nanos>33000</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Request is being sent now!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:28:13.170600700Z</date>
+  <millis>1670452093170</millis>
+  <nanos>600700</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:13.223599300Z</date>
+  <millis>1670452093223</millis>
+  <nanos>599300</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:13.224599800Z</date>
+  <millis>1670452093224</millis>
+  <nanos>599800</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:13.226598600Z</date>
+  <millis>1670452093226</millis>
+  <nanos>598600</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>File is empty, request will be sent</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:13.227598800Z</date>
+  <millis>1670452093227</millis>
+  <nanos>598800</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>You are sending a request to AdventOfCode
+Last request was null</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:13.227598800Z</date>
+  <millis>1670452093227</millis>
+  <nanos>598800</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Request is being sent now!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:28:49.772303400Z</date>
+  <millis>1670452129772</millis>
+  <nanos>303400</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:49.822304200Z</date>
+  <millis>1670452129822</millis>
+  <nanos>304200</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:49.823305800Z</date>
+  <millis>1670452129823</millis>
+  <nanos>305800</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:49.825305800Z</date>
+  <millis>1670452129825</millis>
+  <nanos>305800</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>File is empty, request will be sent</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:49.826304700Z</date>
+  <millis>1670452129826</millis>
+  <nanos>304700</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>You are sending a request to AdventOfCode
+Last request was null</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:49.826304700Z</date>
+  <millis>1670452129826</millis>
+  <nanos>304700</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Request is being sent now!</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:50.837402900Z</date>
+  <millis>1670452130837</millis>
+  <nanos>402900</nanos>
+  <sequence>6</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to write to file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-07T22:28:54.712619Z</date>
+  <millis>1670452134712</millis>
+  <nanos>619000</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:54.762618900Z</date>
+  <millis>1670452134762</millis>
+  <nanos>618900</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:54.762618900Z</date>
+  <millis>1670452134762</millis>
+  <nanos>618900</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:54.765620500Z</date>
+  <millis>1670452134765</millis>
+  <nanos>620500</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-07T22:28:54.766619700Z</date>
+  <millis>1670452134766</millis>
+  <nanos>619700</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-08T16:27:44.318460900Z</date>
+  <millis>1670516864318</millis>
+  <nanos>460900</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-08T16:27:44.400458100Z</date>
+  <millis>1670516864400</millis>
+  <nanos>458100</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-08T16:27:44.401458200Z</date>
+  <millis>1670516864401</millis>
+  <nanos>458200</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 7 is called up</message>
+</record>
+<record>
+  <date>2022-12-08T16:27:44.404458200Z</date>
+  <millis>1670516864404</millis>
+  <nanos>458200</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-08T16:27:44.406458100Z</date>
+  <millis>1670516864406</millis>
+  <nanos>458100</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T19:49:19.963098Z</date>
+  <millis>1671133759963</millis>
+  <nanos>98000</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T19:49:20.035096900Z</date>
+  <millis>1671133760035</millis>
+  <nanos>96900</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T19:49:20.037097900Z</date>
+  <millis>1671133760037</millis>
+  <nanos>97900</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T19:49:20.040095500Z</date>
+  <millis>1671133760040</millis>
+  <nanos>95500</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>File is empty, request will be sent</message>
+</record>
+<record>
+  <date>2022-12-15T19:49:20.041097900Z</date>
+  <millis>1671133760041</millis>
+  <nanos>97900</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>WARNING</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>You are sending a request to AdventOfCode
+Last request was null</message>
+</record>
+<record>
+  <date>2022-12-15T19:49:20.042098100Z</date>
+  <millis>1671133760042</millis>
+  <nanos>98100</nanos>
+  <sequence>5</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Request is being sent now!</message>
+</record>
+<record>
+  <date>2022-12-15T19:49:21.102431600Z</date>
+  <millis>1671133761102</millis>
+  <nanos>431600</nanos>
+  <sequence>6</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to write to file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T19:57:46.728357900Z</date>
+  <millis>1671134266728</millis>
+  <nanos>357900</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T19:57:46.784357600Z</date>
+  <millis>1671134266784</millis>
+  <nanos>357600</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T19:57:46.785357600Z</date>
+  <millis>1671134266785</millis>
+  <nanos>357600</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T19:57:46.788358Z</date>
+  <millis>1671134266788</millis>
+  <nanos>358000</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T19:57:46.789358100Z</date>
+  <millis>1671134266789</millis>
+  <nanos>358100</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T19:58:54.268559700Z</date>
+  <millis>1671134334268</millis>
+  <nanos>559700</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T19:58:54.324560900Z</date>
+  <millis>1671134334324</millis>
+  <nanos>560900</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T19:58:54.324560900Z</date>
+  <millis>1671134334324</millis>
+  <nanos>560900</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T19:58:54.327561400Z</date>
+  <millis>1671134334327</millis>
+  <nanos>561400</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T19:58:54.328562700Z</date>
+  <millis>1671134334328</millis>
+  <nanos>562700</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:01:25.921730800Z</date>
+  <millis>1671134485921</millis>
+  <nanos>730800</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:01:25.974728700Z</date>
+  <millis>1671134485974</millis>
+  <nanos>728700</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:01:25.975730600Z</date>
+  <millis>1671134485975</millis>
+  <nanos>730600</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:01:25.978730600Z</date>
+  <millis>1671134485978</millis>
+  <nanos>730600</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:01:25.979730100Z</date>
+  <millis>1671134485979</millis>
+  <nanos>730100</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:01:36.039639700Z</date>
+  <millis>1671134496039</millis>
+  <nanos>639700</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:01:36.098640Z</date>
+  <millis>1671134496098</millis>
+  <nanos>640000</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:01:36.099641Z</date>
+  <millis>1671134496099</millis>
+  <nanos>641000</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:01:36.102640400Z</date>
+  <millis>1671134496102</millis>
+  <nanos>640400</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:01:36.103638600Z</date>
+  <millis>1671134496103</millis>
+  <nanos>638600</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:06:24.539560400Z</date>
+  <millis>1671134784539</millis>
+  <nanos>560400</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:06:24.594561500Z</date>
+  <millis>1671134784594</millis>
+  <nanos>561500</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:06:24.595561200Z</date>
+  <millis>1671134784595</millis>
+  <nanos>561200</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:06:24.597561900Z</date>
+  <millis>1671134784597</millis>
+  <nanos>561900</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:06:24.598560500Z</date>
+  <millis>1671134784598</millis>
+  <nanos>560500</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:07:09.237449Z</date>
+  <millis>1671134829237</millis>
+  <nanos>449000</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:07:09.288449300Z</date>
+  <millis>1671134829288</millis>
+  <nanos>449300</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:07:09.289449500Z</date>
+  <millis>1671134829289</millis>
+  <nanos>449500</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:07:09.292450Z</date>
+  <millis>1671134829292</millis>
+  <nanos>450000</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:07:09.293449500Z</date>
+  <millis>1671134829293</millis>
+  <nanos>449500</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:07:15.742170500Z</date>
+  <millis>1671134835742</millis>
+  <nanos>170500</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:07:15.797170800Z</date>
+  <millis>1671134835797</millis>
+  <nanos>170800</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:07:15.798169800Z</date>
+  <millis>1671134835798</millis>
+  <nanos>169800</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:07:15.800169300Z</date>
+  <millis>1671134835800</millis>
+  <nanos>169300</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:07:15.801169200Z</date>
+  <millis>1671134835801</millis>
+  <nanos>169200</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:07:46.688112600Z</date>
+  <millis>1671134866688</millis>
+  <nanos>112600</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:07:46.740114100Z</date>
+  <millis>1671134866740</millis>
+  <nanos>114100</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:07:46.741112300Z</date>
+  <millis>1671134866741</millis>
+  <nanos>112300</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:07:46.743114400Z</date>
+  <millis>1671134866743</millis>
+  <nanos>114400</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:07:46.744113900Z</date>
+  <millis>1671134866744</millis>
+  <nanos>113900</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:12:11.259886900Z</date>
+  <millis>1671135131259</millis>
+  <nanos>886900</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:12:11.315886300Z</date>
+  <millis>1671135131315</millis>
+  <nanos>886300</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:12:11.316886600Z</date>
+  <millis>1671135131316</millis>
+  <nanos>886600</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:12:11.319887100Z</date>
+  <millis>1671135131319</millis>
+  <nanos>887100</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:12:11.320888500Z</date>
+  <millis>1671135131320</millis>
+  <nanos>888500</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:14:18.389068800Z</date>
+  <millis>1671135258389</millis>
+  <nanos>68800</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:14:18.530067300Z</date>
+  <millis>1671135258530</millis>
+  <nanos>67300</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:14:18.531067500Z</date>
+  <millis>1671135258531</millis>
+  <nanos>67500</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:14:18.538068500Z</date>
+  <millis>1671135258538</millis>
+  <nanos>68500</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:14:18.540069500Z</date>
+  <millis>1671135258540</millis>
+  <nanos>69500</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:15:30.220568100Z</date>
+  <millis>1671135330220</millis>
+  <nanos>568100</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:15:30.275568700Z</date>
+  <millis>1671135330275</millis>
+  <nanos>568700</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:15:30.276567900Z</date>
+  <millis>1671135330276</millis>
+  <nanos>567900</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:15:30.278569200Z</date>
+  <millis>1671135330278</millis>
+  <nanos>569200</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:15:30.279567900Z</date>
+  <millis>1671135330279</millis>
+  <nanos>567900</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:16:03.285577100Z</date>
+  <millis>1671135363285</millis>
+  <nanos>577100</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:16:03.341575800Z</date>
+  <millis>1671135363341</millis>
+  <nanos>575800</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:16:03.342576200Z</date>
+  <millis>1671135363342</millis>
+  <nanos>576200</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:16:03.345576900Z</date>
+  <millis>1671135363345</millis>
+  <nanos>576900</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:16:03.346575700Z</date>
+  <millis>1671135363346</millis>
+  <nanos>575700</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:17:01.740387400Z</date>
+  <millis>1671135421740</millis>
+  <nanos>387400</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:17:01.794388100Z</date>
+  <millis>1671135421794</millis>
+  <nanos>388100</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:17:01.795388100Z</date>
+  <millis>1671135421795</millis>
+  <nanos>388100</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:17:01.799387800Z</date>
+  <millis>1671135421799</millis>
+  <nanos>387800</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:17:01.800388300Z</date>
+  <millis>1671135421800</millis>
+  <nanos>388300</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:18:14.027651200Z</date>
+  <millis>1671135494027</millis>
+  <nanos>651200</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:18:14.083652100Z</date>
+  <millis>1671135494083</millis>
+  <nanos>652100</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:18:14.084652200Z</date>
+  <millis>1671135494084</millis>
+  <nanos>652200</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:18:14.087652800Z</date>
+  <millis>1671135494087</millis>
+  <nanos>652800</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:18:14.088651700Z</date>
+  <millis>1671135494088</millis>
+  <nanos>651700</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:18:38.006197700Z</date>
+  <millis>1671135518006</millis>
+  <nanos>197700</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:18:38.068196500Z</date>
+  <millis>1671135518068</millis>
+  <nanos>196500</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:18:38.069197200Z</date>
+  <millis>1671135518069</millis>
+  <nanos>197200</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:18:38.071198200Z</date>
+  <millis>1671135518071</millis>
+  <nanos>198200</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:18:38.072575800Z</date>
+  <millis>1671135518072</millis>
+  <nanos>575800</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:19:08.576940200Z</date>
+  <millis>1671135548576</millis>
+  <nanos>940200</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:19:08.630940Z</date>
+  <millis>1671135548630</millis>
+  <nanos>940000</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:19:08.630940Z</date>
+  <millis>1671135548630</millis>
+  <nanos>940000</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:19:08.633940Z</date>
+  <millis>1671135548633</millis>
+  <nanos>940000</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:19:08.634939500Z</date>
+  <millis>1671135548634</millis>
+  <nanos>939500</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:19:43.272755300Z</date>
+  <millis>1671135583272</millis>
+  <nanos>755300</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:19:43.328755800Z</date>
+  <millis>1671135583328</millis>
+  <nanos>755800</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:19:43.329757200Z</date>
+  <millis>1671135583329</millis>
+  <nanos>757200</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:19:43.332759900Z</date>
+  <millis>1671135583332</millis>
+  <nanos>759900</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:19:43.334756700Z</date>
+  <millis>1671135583334</millis>
+  <nanos>756700</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:20:01.116525Z</date>
+  <millis>1671135601116</millis>
+  <nanos>525000</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:20:01.170526100Z</date>
+  <millis>1671135601170</millis>
+  <nanos>526100</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:20:01.171526800Z</date>
+  <millis>1671135601171</millis>
+  <nanos>526800</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:20:01.174525Z</date>
+  <millis>1671135601174</millis>
+  <nanos>525000</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:20:01.175525100Z</date>
+  <millis>1671135601175</millis>
+  <nanos>525100</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:20:40.574762700Z</date>
+  <millis>1671135640574</millis>
+  <nanos>762700</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:20:40.633766100Z</date>
+  <millis>1671135640633</millis>
+  <nanos>766100</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:20:40.634764300Z</date>
+  <millis>1671135640634</millis>
+  <nanos>764300</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:20:40.637764100Z</date>
+  <millis>1671135640637</millis>
+  <nanos>764100</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:20:40.639763100Z</date>
+  <millis>1671135640639</millis>
+  <nanos>763100</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:20:52.934681200Z</date>
+  <millis>1671135652934</millis>
+  <nanos>681200</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:20:52.988680400Z</date>
+  <millis>1671135652988</millis>
+  <nanos>680400</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:20:52.989680300Z</date>
+  <millis>1671135652989</millis>
+  <nanos>680300</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:20:52.991682Z</date>
+  <millis>1671135652991</millis>
+  <nanos>682000</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:20:52.992682700Z</date>
+  <millis>1671135652992</millis>
+  <nanos>682700</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:36:10.206114300Z</date>
+  <millis>1671136570206</millis>
+  <nanos>114300</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:36:10.261114900Z</date>
+  <millis>1671136570261</millis>
+  <nanos>114900</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:36:10.262113700Z</date>
+  <millis>1671136570262</millis>
+  <nanos>113700</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:36:10.265128100Z</date>
+  <millis>1671136570265</millis>
+  <nanos>128100</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:36:10.266128900Z</date>
+  <millis>1671136570266</millis>
+  <nanos>128900</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-15T20:36:48.548162900Z</date>
+  <millis>1671136608548</millis>
+  <nanos>162900</nanos>
+  <sequence>0</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Cookie file is being read from</message>
+</record>
+<record>
+  <date>2022-12-15T20:36:48.600165100Z</date>
+  <millis>1671136608600</millis>
+  <nanos>165100</nanos>
+  <sequence>1</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is being requested!</message>
+</record>
+<record>
+  <date>2022-12-15T20:36:48.601164200Z</date>
+  <millis>1671136608601</millis>
+  <nanos>164200</nanos>
+  <sequence>2</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content of day 8 is called up</message>
+</record>
+<record>
+  <date>2022-12-15T20:36:48.604163Z</date>
+  <millis>1671136608604</millis>
+  <nanos>163000</nanos>
+  <sequence>3</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Content is saved in file already!</message>
+</record>
+<record>
+  <date>2022-12-15T20:36:48.605164400Z</date>
+  <millis>1671136608605</millis>
+  <nanos>164400</nanos>
+  <sequence>4</sequence>
+  <logger>AOC2022</logger>
+  <level>INFO</level>
+  <class>log.AocLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Trying to read from file</message>
+</record>
+</log>

@@ -61,7 +61,7 @@ public class Node {
         return getFittingNodes();
     }
 
-    public List<Node> getFittingNodes() {
+    private List<Node> getFittingNodes() {
         List<Node> result = new LinkedList<>();
         this.children.stream()
                 .filter(p -> p.getSize() > space)
